@@ -6,5 +6,3 @@ When using the dropdown menu, focus hijacking can occur when the menu is open an
 2. Re-focus the textbox to regain focus.
 
 Reproduction: <https://svelte5-shadcn-next-dropdown-input-repro.vercel.app>.
-
-<video controls src="Google Chrome-001135.mp4"></video>
